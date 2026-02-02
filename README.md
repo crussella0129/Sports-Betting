@@ -47,6 +47,6 @@
 
 ## Disclaimers ##
 - Sports Books, Casinos, and Governmental Jurisdictions all have different policies regarding the legality of betting, as well as the use of informed models while betting. The use of this repo, or any sports betting content put out by the GitHub profile hosting this repo, is done at your own risk and with assumption of compliance with all applicable policies to the user.
-- Betting is dangerous and is, statistically, a negative sum game. In plain English, this means most people will lose on average, in the long term. The key to a successful betting model is to have "edge" over the Sports Book or House's model. They have billions of dollars (that you most likely do not) to build these models.
+- Sports Betting is dangerous and is, statistically, a negative sum game. In plain English, this means most people will lose on average, in the long term. The key to a successful betting model is to have "edge" over the Sports Book or House's model. They have billions of dollars (that you most likely do not) to build these models.
 - **Please have realistic expectations**. Betting can be a fun activity that a trivial amount of money can be made in the long term, when done ideally. Be aware: the more you win with a sportsbook, the worse your odds typically become as they adjust to recoup losses from you.
 - Finally, don't be an idiot. Having a laptop and spreadsheets out at a casino *can* get security called on you or get the house to stop letting you play. Don't be "that guy" - do your homework at home instead. 
