@@ -1,7 +1,6 @@
 # Sports-Betting
 
-# An Excel workbook template and a brief tutorial on how to use it (at your own risk). 
-
+## An Excel workbook template and a brief tutorial on how to use it (at your own risk). 
 ## If you lose it all, it’s totally on you, dude.
 
 ### Tutorial
